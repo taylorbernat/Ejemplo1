@@ -15,6 +15,7 @@ border: 1px solid;
 .capas_general{
     background-color: aquamarine;
     margin: 5%;
-    color: red;
+    box-shadow:4px 4px 4px red;
+    
 
 }
