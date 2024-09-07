@@ -1,0 +1,20 @@
+div{
+border: 1px solid;
+}
+#cuerpo_principal{
+    background-color: aqua;
+    width: 90%;
+    margin:0 auto;
+    padding:2%;
+    box-shadow:4px 4px 4px red;
+    position:relative;
+    display:flex;
+    flex-direction: column;
+}
+/*selector de class*/
+.capas_general{
+    background-color: aquamarine;
+    margin: 5%;
+    color: red;
+
+}
